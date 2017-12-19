@@ -1,0 +1,25 @@
+baseurl = "https://example.com"
+languageCode = "zh-TW"
+defaultContentLanguage = "zh"
+title = "hi 05360171"
+theme = "hugo-theme-dream"
+
+copyright = "Copyright (c) 2017, g1eny0ung; all rights reserved."
+
+# enableRobotsTXT = true
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+[params]
+  author = "陳佑承05360171"
+  motto = "有聲勝過無聲"
+  description = "４０４ error"
+  avatar = "/img/avatar.jpg"
+
+  email = "k0922167986@gmail.com"
+  # github = ""
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
